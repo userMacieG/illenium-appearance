@@ -268,7 +268,7 @@ Locales["pl"] = {
         title = "Przebieralnia",
         outfitsTitle = "Stroje gracza",
         clothingShopTitle = "Sklep odzieżowy",
-        barberShopTitle = "Fryzier",
+        barberShopTitle = "Fryzjer",
         tattooShopTitle = "Tatuażysta",
         surgeonShopTitle = "Chirurg"
     },
@@ -321,7 +321,7 @@ Locales["pl"] = {
     },
     textUI = {
         clothing = "Sklep odzieżowy - Cena: $%d",
-        barber = "Fryzier - Cena: $%d",
+        barber = "Fryzjer - Cena: $%d",
         tattoo = "Tatuażysta - Cena: $%d",
         surgeon = "Operacja plastyczna - Cena: $%d",
         clothingRoom = "Przebieralnia",
